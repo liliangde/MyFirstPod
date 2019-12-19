@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyFirstPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/li_liangde@163.com/MyFirstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "li_liangde@163.com": "liangde.li@zhenai.com"
+  },
+  "source": {
+    "git": "https://github.com/li_liangde@163.com/MyFirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFirstPod/Classes/**/*"
+}
