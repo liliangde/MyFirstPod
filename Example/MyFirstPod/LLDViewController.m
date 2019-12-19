@@ -7,6 +7,7 @@
 //
 
 #import "LLDViewController.h"
+#import <LLDFirstPod.h>
 
 @interface LLDViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [LLDFirstPod loggInfo];
 }
 
 - (void)didReceiveMemoryWarning

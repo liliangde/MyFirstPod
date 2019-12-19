@@ -1,9 +1,9 @@
 {
   "name": "MyFirstPod",
   "version": "0.1.0",
-  "summary": "A short description of MyFirstPod.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/li_liangde@163.com/MyFirstPod",
+  "summary": "学习制作自己的第一个pod仓库",
+  "description": "学习制作自己的第一个pod仓库 this is a hello world project !",
+  "homepage": "https://github.com/liliangde/MyFirstPod.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
