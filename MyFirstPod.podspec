@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyFirstPod'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '学习制作自己的第一个pod仓库'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 学习制作自己的第一个pod仓库 this is a hello world project !
                        DESC
 
-  s.homepage         = 'https://github.com/liliangde/MyFirstPod.git'
+  s.homepage         = 'https://github.com/liliangde/MyFirstPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'li_liangde@163.com' => 'liangde.li@zhenai.com' }
-  s.source           = { :git => 'https://github.com/li_liangde@163.com/MyFirstPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/liliangde/MyFirstPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
